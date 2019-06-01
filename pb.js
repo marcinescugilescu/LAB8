@@ -1,1 +1,1 @@
-comsole.log("halo")
+console.log("halo");
